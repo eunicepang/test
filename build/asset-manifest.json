@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/nft-minter/static/css/main.03fddb0a.css",
+    "main.js": "/nft-minter/static/js/main.0911ee03.js",
+    "static/js/453.33463a65.chunk.js": "/nft-minter/static/js/453.33463a65.chunk.js",
+    "static/media/index.cjs": "/nft-minter/static/media/index.720d13936a625d158fd6.cjs",
+    "index.html": "/nft-minter/index.html",
+    "main.03fddb0a.css.map": "/nft-minter/static/css/main.03fddb0a.css.map",
+    "main.0911ee03.js.map": "/nft-minter/static/js/main.0911ee03.js.map",
+    "453.33463a65.chunk.js.map": "/nft-minter/static/js/453.33463a65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.03fddb0a.css",
+    "static/js/main.0911ee03.js"
+  ]
+}
